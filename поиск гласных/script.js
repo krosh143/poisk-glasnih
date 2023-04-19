@@ -11,4 +11,4 @@ const find = str =>{
   return count
   
 }
-console.log(find('ЯблОко')) \\ можноо вводить любое слово
+console.log(find('ЯблОко')) \\ можноо вводить любое слово ru or en
